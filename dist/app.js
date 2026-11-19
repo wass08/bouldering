@@ -1,4 +1,4 @@
-import {createBetaPlanning} from './beta-planning.js?v=fast-fit-1';
+import {createBetaPlanning} from './beta-planning.js?v=caustic-cta-1';
 import {buildDynamicClip,sampleDynamic} from './dynamic-moves.js?v=route-range-1';
 import {createBetaExperience} from './beta-experience.js?v=knee-tracking-1';
 import {atelierWalls,dressAtelier,ROUTE_IDEAS} from './default-gym.js?v=launch-pad-1';
